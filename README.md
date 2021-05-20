@@ -29,7 +29,7 @@
 8、部署windows本机，修改qdTest.bat文件中的路径(改成你的文件路径)，然后打开按照参考文档部署。
 * 设置自动开机：https://www.yunqishi.net/video/38836.html
 * 设置电脑睡眠时间：选择电源和睡眠
-* 设置自动连接网络WiFi:点击WiFi属性
+* 设置自动连接网络WiFi：点击WiFi属性
 ``
 ![img_3.png](img_3.png)![img_4.png](img_4.png)
 
