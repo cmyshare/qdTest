@@ -26,16 +26,19 @@
 
 7、可以部署到网络服务器上执行。 还可以自创bat文件(写入运行jar命令)可执行脚本，部署到自己的电脑里定时执行(Windows自带定时，可不用多线程)。
 
-8、部署windows本机，修改qdTest.bat文件中的路径(改成你的文件路径)，然后打开按照参考文档部署。``
+8、部署windows本机，修改qdTest.bat文件中的路径(改成你的文件路径)，然后打开按照参考文档部署。
+* 设置自动开机：https://www.yunqishi.net/video/38836.html
+* 设置电脑睡眠时间：选择电源和睡眠
+* 设置自动连接网络WiFi:点击WiFi属性
+``
 ![img_3.png](img_3.png)![img_4.png](img_4.png)
 
 参考链接：
 * 部署参考：https://www.jianshu.com/p/e7e13a11bf9c
 * idea导出jar包：https://www.cnblogs.com/ffaiss/p/10908483.html
 * 部署到本机windows参考：https://blog.csdn.net/projectNo/article/details/81773744
-* 设置自动开机：https://www.yunqishi.net/video/38836.html
-* 设置电脑睡眠时间：选择电源和睡眠
-* 设置自动连接网络WiFi:点击WiFi属性
 * 把本地idea上的项目上传到github上:https://www.cnblogs.com/gougouyangzi/articles/9429280.html
 * github第一次新建：create git repository -> add -> commit -> share project on github
 * github第二次修改：add -> commit push
+
+项目地址：https://github.com/15123394002/qdTest
