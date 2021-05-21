@@ -30,6 +30,7 @@
 * 设置自动开机：https://www.yunqishi.net/video/38836.html
 * 设置电脑睡眠时间：选择电源和睡眠
 * 设置自动连接网络WiFi：点击WiFi属性
+
 ``
 ![img_3.png](img_3.png)![img_4.png](img_4.png)
 
